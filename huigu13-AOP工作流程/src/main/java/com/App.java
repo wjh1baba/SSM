@@ -1,18 +1,18 @@
-package service;
+package com;
 
 import com.config.SpringConfig;
-import dao.BookDao;
+import com.dao.BookDao;
+import com.dao.impl.BookDaoimpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-public class APPForAnnotation {
+public class App {
     public static void main(String[] args) {
         ApplicationContext ctx = new AnnotationConfigApplicationContext(SpringConfig.class);
-        BookDao bookDao = (BookDao) ctx.getBean("bookDao");
-        bookDao.save();
+        BookDao bookDao = ctx.getBean(BookDao.class);
 
-        BookService bookService = (BookService) ctx.getBean("bookService");
-        bookService.save();
+        System.out.println(bookDao);
+        System.out.println(bookDao.getClass());
     }
 }
 

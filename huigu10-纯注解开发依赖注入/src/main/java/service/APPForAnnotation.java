@@ -1,11 +1,8 @@
 package service;
 
-import config.SpringConfig;
-import dao.BookDao;
+import com.config.SpringConfig;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
-import service.impl.BookServiceimpl;
 
 public class APPForAnnotation {
     public static void main(String[] args) {

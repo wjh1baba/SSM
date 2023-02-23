@@ -1,10 +1,7 @@
 package dao;
 
-import config.SpringConfig;
-import dao.BookDao;
-import org.springframework.context.ApplicationContext;
+import com.config.SpringConfig;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
-import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 
 public class APPForAnnotation {

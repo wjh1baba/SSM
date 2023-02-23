@@ -1,11 +1,9 @@
-package config;
+package com.config;
 
 import com.alibaba.druid.pool.DruidDataSource;
 import dao.BookDao;
-import dao.impl.BookDaoimpl;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
-import org.springframework.stereotype.Component;
 
 import javax.sql.DataSource;
 

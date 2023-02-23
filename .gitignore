@@ -1,0 +1,12 @@
+# Project exclude paths
+/huigu01-入门案例/target/
+/huigu02-bean/target/
+/huigu03-依赖注入方式/target/
+/huigu04-依赖自动装配/target/
+/huigu05-集合注入/target/
+/huigu06-数据源对象管理/target/
+/huigu07-注解开发/target/
+/huigu08-纯注解开发/target/
+/huigu09-纯注解开发bean的作用范围和生命周期/target/
+/huigu10-纯注解开发依赖注入/target/
+/huigu11-纯注解开发-管理第三方bean/target/

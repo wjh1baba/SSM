@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/huigu01-入门案例/huigu.iml" filepath="$PROJECT_DIR$/huigu01-入门案例/huigu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu04-依赖自动装配/huigu (1).iml" filepath="$PROJECT_DIR$/huigu04-依赖自动装配/huigu (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu05-集合注入/huigu (2).iml" filepath="$PROJECT_DIR$/huigu05-集合注入/huigu (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu02-bean/huigu02.iml" filepath="$PROJECT_DIR$/huigu02-bean/huigu02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu03-依赖注入方式/huigu03.iml" filepath="$PROJECT_DIR$/huigu03-依赖注入方式/huigu03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu06-数据源对象管理/huigu06.iml" filepath="$PROJECT_DIR$/huigu06-数据源对象管理/huigu06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu07-注解开发/huigu07.iml" filepath="$PROJECT_DIR$/huigu07-注解开发/huigu07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu08-纯注解开发/huigu08.iml" filepath="$PROJECT_DIR$/huigu08-纯注解开发/huigu08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu09-纯注解开发bean的作用范围和生命周期/huigu09.iml" filepath="$PROJECT_DIR$/huigu09-纯注解开发bean的作用范围和生命周期/huigu09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu10-纯注解开发依赖注入/huigu10.iml" filepath="$PROJECT_DIR$/huigu10-纯注解开发依赖注入/huigu10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu11-纯注解开发-管理第三方bean/huigu11.iml" filepath="$PROJECT_DIR$/huigu11-纯注解开发-管理第三方bean/huigu11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+    </modules>
+  </component>
+</project>

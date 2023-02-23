@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+<!--    配置bean-->
+    <bean id = "bookDao" class="dao.impl.BookDaoimpl">
+        <property name="array">
+            <array>
+                <value>1</value>
+                <value>2</value>
+                <value>2</value>
+            </array>
+        </property>
+        <property name="list">
+            <list>
+                <value>jj</value>
+                <value>kk</value>
+                <value>ll</value>
+            </list>
+        </property>
+        <property name="set">
+            <set>
+                <value>jj2</value>
+                <value>kk2</value>
+                <value>ll2</value>
+            </set>
+        </property>
+        <property name="map">
+            <map>
+                <entry key="1" value="one"></entry>
+                <entry key="2" value="tow"></entry>
+                <entry key="3" value="three"></entry>
+            </map>
+        </property>
+        <property name="properties">
+            <props>
+                <prop key="1">one2</prop>
+                <prop key="2">tow2</prop>
+                <prop key="3">three2</prop>
+            </props>
+        </property>
+    </bean>
+
+</beans>

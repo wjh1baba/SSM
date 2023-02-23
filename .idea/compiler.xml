@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="huigu09" />
+        <module name="huigu08" />
+        <module name="huigu07" />
+        <module name="huigu06" />
+        <module name="huigu" />
+        <module name="huigu03" />
+        <module name="huigu02" />
+        <module name="huigu (1)" />
+        <module name="huigu11" />
+        <module name="huigu (2)" />
+        <module name="huigu10" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="huigu" target="8" />
+      <module name="huigu (1)" target="8" />
+      <module name="huigu (2)" target="8" />
+      <module name="huigu02" target="8" />
+      <module name="huigu03" target="8" />
+      <module name="huigu06" target="8" />
+      <module name="huigu07" target="8" />
+      <module name="huigu08" target="8" />
+      <module name="huigu09" target="8" />
+      <module name="huigu10" target="8" />
+      <module name="huigu11" target="8" />
+      <module name="Spring_Framwork2" target="8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

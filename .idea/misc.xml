@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/huigu/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu01-入门案例/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu02-bean/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu03-依赖注入方式/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu04-依赖自动装配/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu05-集合注入/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu06-数据源对象管理/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu07-注解开发/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu08-纯注解开发/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu09-纯注解开发bean的作用范围和生命周期/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu10-纯注解开发依赖注入/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu11-纯注解开发-管理第三方bean/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

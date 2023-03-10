@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc01" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc02" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc03" />
+  </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
       <list>
@@ -19,6 +24,18 @@
         <option value="$PROJECT_DIR$/huigu12-AOP入门案例/pom.xml" />
         <option value="$PROJECT_DIR$/huigu13-AOP工作流程/pom.xml" />
         <option value="$PROJECT_DIR$/huigu14-AOP切入点表达式/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu15-AOP通知类型/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu11-2-Spring整合MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu16-Spring整合MyBatis和AOP万次执行效率案例/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu11-3-Spring整合JUnit/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu17-百度云盘密码兼容多出空格/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu18-事务案例/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu19-转账业务追加日志/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc01/springmvc01/springmvc01/springmvc01/springmvc01/pom.xml" />
+        <option value="$PROJECT_DIR$/huigu20-SpringMVC简介/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc01/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc02/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc03/pom.xml" />
       </list>
     </option>
   </component>

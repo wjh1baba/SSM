@@ -6,20 +6,31 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="huigu11-2" />
         <module name="huigu03" />
-        <module name="huigu14" />
         <module name="huigu02" />
-        <module name="huigu13" />
-        <module name="huigu (1)" />
-        <module name="huigu11" />
+        <module name="huigu14 (1)" />
         <module name="huigu (2)" />
-        <module name="huigu10" />
-        <module name="huigu12-AOP入门案例" />
+        <module name="springmvc01 (1)" />
         <module name="huigu09" />
         <module name="huigu08" />
         <module name="huigu07" />
         <module name="huigu06" />
         <module name="huigu" />
+        <module name="huigu11-3" />
+        <module name="huigu16" />
+        <module name="huigu14" />
+        <module name="huigu13" />
+        <module name="huigu (1)" />
+        <module name="huigu11" />
+        <module name="huigu10" />
+        <module name="huigu12-AOP入门案例" />
+        <module name="springmvc01" />
+        <module name="huigu19" />
+        <module name="springmvc02" />
+        <module name="huigu18" />
+        <module name="huigu17" />
+        <module name="huigu20-Spring-MVC" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -35,10 +46,25 @@
       <module name="huigu09" target="8" />
       <module name="huigu10" target="8" />
       <module name="huigu11" target="8" />
+      <module name="huigu11 (1)" target="8" />
+      <module name="huigu11-2" target="8" />
+      <module name="huigu11-3" target="8" />
       <module name="huigu12-AOP入门案例" target="8" />
       <module name="huigu13" target="8" />
       <module name="huigu14" target="8" />
+      <module name="huigu14 (1)" target="8" />
+      <module name="huigu15" target="8" />
+      <module name="huigu16" target="8" />
+      <module name="huigu17" target="8" />
+      <module name="huigu18" target="8" />
+      <module name="huigu18 (1)" target="8" />
+      <module name="huigu18-事务简介与案例" target="8" />
+      <module name="huigu19" target="8" />
+      <module name="huigu20-Spring-MVC" target="8" />
       <module name="Spring_Framwork2" target="8" />
+      <module name="springmvc01" target="1.8" />
+      <module name="springmvc01 (1)" target="1.8" />
+      <module name="springmvc02" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

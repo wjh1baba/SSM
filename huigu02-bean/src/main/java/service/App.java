@@ -1,7 +1,6 @@
 package service;
 
-import dao.BookDao;
-import org.springframework.context.ApplicationContext;
+import com.dao.BookDao;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class App {

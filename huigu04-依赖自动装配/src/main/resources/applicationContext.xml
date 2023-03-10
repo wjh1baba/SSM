@@ -3,8 +3,8 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 <!--    配置bean-->
-    <bean id = "bookDao" class="dao.impl.BookDaoimpl"></bean>
-    <bean id="user" class="dao.impl.Userimpl"></bean>
+    <bean id = "bookDao" class="com.dao.impl.ResourcesDaoimpl"></bean>
+    <bean id="user" class="com.dao.impl.Userimpl"></bean>
 
     <bean id = "bookService" class="service.impl.BookServiceimpl" autowire="byType">
 <!--        配置server和dao的关系-->

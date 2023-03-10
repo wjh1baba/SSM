@@ -1,8 +1,6 @@
 package com;
 
-import com.config.SpringConfig;
 import com.dao.BookDao;
-import com.dao.impl.BookDaoimpl;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 

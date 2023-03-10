@@ -3,7 +3,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 <!--    配置bean-->
-    <bean id = "bookDao" class="dao.impl.BookDaoimpl"></bean>
+    <bean id = "bookDao" class="com.dao.impl.ResourcesDaoimpl"></bean>
     <bean id = "bookService" class="service.impl.BookServiceimpl">
 <!--        配置server和dao的关系-->
         <property name="bookDao" ref="bookDao"></property>

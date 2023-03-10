@@ -13,10 +13,21 @@
       <module fileurl="file://$PROJECT_DIR$/huigu09-纯注解开发bean的作用范围和生命周期/huigu09.iml" filepath="$PROJECT_DIR$/huigu09-纯注解开发bean的作用范围和生命周期/huigu09.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu10-纯注解开发依赖注入/huigu10.iml" filepath="$PROJECT_DIR$/huigu10-纯注解开发依赖注入/huigu10.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu11-纯注解开发-管理第三方bean/huigu11.iml" filepath="$PROJECT_DIR$/huigu11-纯注解开发-管理第三方bean/huigu11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu11-2-Spring整合MyBatis/huigu11-2.iml" filepath="$PROJECT_DIR$/huigu11-2-Spring整合MyBatis/huigu11-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu11-3-Spring整合JUnit/huigu11-3.iml" filepath="$PROJECT_DIR$/huigu11-3-Spring整合JUnit/huigu11-3.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu12-AOP入门案例/huigu12-AOP入门案例.iml" filepath="$PROJECT_DIR$/huigu12-AOP入门案例/huigu12-AOP入门案例.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu13-AOP工作流程/huigu13.iml" filepath="$PROJECT_DIR$/huigu13-AOP工作流程/huigu13.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu14-AOP切入点表达式/huigu14.iml" filepath="$PROJECT_DIR$/huigu14-AOP切入点表达式/huigu14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu15-AOP通知类型/huigu14 (1).iml" filepath="$PROJECT_DIR$/huigu15-AOP通知类型/huigu14 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu16-Spring整合MyBatis和AOP万次执行效率案例/huigu16.iml" filepath="$PROJECT_DIR$/huigu16-Spring整合MyBatis和AOP万次执行效率案例/huigu16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu17-百度云盘密码兼容多出空格/huigu17.iml" filepath="$PROJECT_DIR$/huigu17-百度云盘密码兼容多出空格/huigu17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu18-事务案例/huigu18.iml" filepath="$PROJECT_DIR$/huigu18-事务案例/huigu18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu19-转账业务追加日志/huigu19.iml" filepath="$PROJECT_DIR$/huigu19-转账业务追加日志/huigu19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/huigu20-SpringMVC简介/huigu20-Spring-MVC.iml" filepath="$PROJECT_DIR$/huigu20-SpringMVC简介/huigu20-Spring-MVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc01/springmvc01.iml" filepath="$PROJECT_DIR$/Springmvc01/springmvc01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc03/springmvc01 (1).iml" filepath="$PROJECT_DIR$/Springmvc03/springmvc01 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc02/springmvc02.iml" filepath="$PROJECT_DIR$/Springmvc02/springmvc02.iml" />
     </modules>
   </component>
 </project>

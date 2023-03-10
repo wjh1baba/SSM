@@ -1,8 +1,7 @@
 package service.impl;
 
-import dao.BookDao;
-import dao.User;
-import dao.impl.BookDaoimpl;
+import com.dao.BookDao;
+import com.dao.User;
 import service.BookService;
 
 public class BookServiceimpl implements BookService {

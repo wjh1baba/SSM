@@ -10,11 +10,11 @@ public class BookDaoimpl implements BookDao {
     @Override
     public void save() {
         System.out.println(System.currentTimeMillis());
-        System.out.println("book dao save");
+        System.out.println("book com.dao save");
     }
 
     @Override
     public void update() {
-        System.out.println("book dao update");
+        System.out.println("book com.dao update");
     }
 }

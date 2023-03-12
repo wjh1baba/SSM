@@ -44,14 +44,16 @@ public class UserController {
         return "已收到pojo数据";
     }
 
+    //---------响应------------
     @RequestMapping("/toJumpPage")
     public String toJumpPage(){
         System.out.println("跳转页面");
         return "index.jsp";
     }
 
+    //响应Pojo对象
     @RequestMapping("/toJumpPojo")
-    @ResponseBody
+    @ResponseBody   //返回body
     public User toJumpPojo(){
         System.out.println("返回json对象");
         User user = new User();
@@ -60,6 +62,7 @@ public class UserController {
         return user;
     }
 
+    //响应Pojo集合对象
     @RequestMapping("/tojsonlist")
     @ResponseBody
     public List<User> tojsonlist(){

@@ -26,8 +26,13 @@
       <module fileurl="file://$PROJECT_DIR$/huigu20-SpringMVC简介/huigu20-Spring-MVC.iml" filepath="$PROJECT_DIR$/huigu20-SpringMVC简介/huigu20-Spring-MVC.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springmvc01/springmvc01.iml" filepath="$PROJECT_DIR$/Springmvc01/springmvc01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Springmvc03/springmvc01 (1).iml" filepath="$PROJECT_DIR$/Springmvc03/springmvc01 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/Springmvc02/springmvc02.iml" filepath="$PROJECT_DIR$/Springmvc02/springmvc02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc03/springmvc03.iml" filepath="$PROJECT_DIR$/Springmvc03/springmvc03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc05--RESTful/springmvc04.iml" filepath="$PROJECT_DIR$/Springmvc05--RESTful/springmvc04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc06--RESTful快速开发/springmvc06.iml" filepath="$PROJECT_DIR$/Springmvc06--RESTful快速开发/springmvc06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc07--SSM整合/springmvc07.iml" filepath="$PROJECT_DIR$/Springmvc07--SSM整合/springmvc07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc08--SSM整合--表现层与前端协议/springmvc08.iml" filepath="$PROJECT_DIR$/Springmvc08--SSM整合--表现层与前端协议/springmvc08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器/springmvc09.iml" filepath="$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器/springmvc09.iml" />
     </modules>
   </component>
 </project>

@@ -4,6 +4,14 @@
     <file type="web" url="file://$PROJECT_DIR$/Springmvc01" />
     <file type="web" url="file://$PROJECT_DIR$/Springmvc02" />
     <file type="web" url="file://$PROJECT_DIR$/Springmvc03" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc04-RESTful" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc05--RESTful" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc06--RESTful快速开发" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc07--SSM整合" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc07--SSM整合/Springmvc07--SSM整合" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc08--SSM整合--表现层与前端协议" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器" />
+    <file type="web" url="file://$PROJECT_DIR$/untitled" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
@@ -36,6 +44,15 @@
         <option value="$PROJECT_DIR$/Springmvc01/pom.xml" />
         <option value="$PROJECT_DIR$/Springmvc02/pom.xml" />
         <option value="$PROJECT_DIR$/Springmvc03/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc04/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc05/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc05--RESTful/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc06--RESTful快速开发/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc07--SSM整合/Springmvc07--SSM整合/pom.xml" />
+        <option value="$PROJECT_DIR$/springmvc07/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc07--SSM整合/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc08--SSM整合--表现层与前端协议/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器/pom.xml" />
       </list>
     </option>
   </component>

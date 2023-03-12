@@ -11,20 +11,26 @@
         <module name="huigu02" />
         <module name="huigu14 (1)" />
         <module name="huigu (2)" />
-        <module name="springmvc01 (1)" />
         <module name="huigu09" />
         <module name="huigu08" />
         <module name="huigu07" />
         <module name="huigu06" />
         <module name="huigu" />
         <module name="huigu11-3" />
+        <module name="untitled" />
         <module name="huigu16" />
+        <module name="springmvc06" />
         <module name="huigu14" />
+        <module name="springmvc03" />
         <module name="huigu13" />
+        <module name="springmvc04" />
+        <module name="springmvc09" />
         <module name="huigu (1)" />
         <module name="huigu11" />
         <module name="huigu10" />
+        <module name="springmvc07" />
         <module name="huigu12-AOP入门案例" />
+        <module name="springmvc08" />
         <module name="springmvc01" />
         <module name="huigu19" />
         <module name="springmvc02" />
@@ -63,8 +69,16 @@
       <module name="huigu20-Spring-MVC" target="8" />
       <module name="Spring_Framwork2" target="8" />
       <module name="springmvc01" target="1.8" />
-      <module name="springmvc01 (1)" target="1.8" />
       <module name="springmvc02" target="1.8" />
+      <module name="springmvc03" target="1.8" />
+      <module name="springmvc04" target="1.8" />
+      <module name="springmvc04 (1)" target="1.8" />
+      <module name="springmvc06" target="1.8" />
+      <module name="springmvc07" target="8" />
+      <module name="Springmvc07--SSM整合" target="1.7" />
+      <module name="springmvc08" target="8" />
+      <module name="springmvc09" target="8" />
+      <module name="untitled" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

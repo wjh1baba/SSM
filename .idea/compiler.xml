@@ -2,39 +2,50 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="huigu11-2" />
+        <module name="mybatisplus04" />
+        <module name="mybatisplus03" />
         <module name="huigu03" />
         <module name="huigu02" />
         <module name="huigu14 (1)" />
+        <module name="springmvc10 (1)" />
         <module name="huigu (2)" />
         <module name="huigu09" />
+        <module name="springmvc12" />
         <module name="huigu08" />
         <module name="huigu07" />
+        <module name="springmvc10" />
         <module name="huigu06" />
+        <module name="springmvc11" />
         <module name="huigu" />
+        <module name="mybatisplus02" />
+        <module name="mybatisplus01" />
         <module name="huigu11-3" />
-        <module name="untitled" />
         <module name="huigu16" />
         <module name="springmvc06" />
         <module name="huigu14" />
         <module name="springmvc03" />
         <module name="huigu13" />
         <module name="springmvc04" />
-        <module name="springmvc09" />
+        <module name="SpringBoot_MyBatis" />
         <module name="huigu (1)" />
         <module name="huigu11" />
         <module name="huigu10" />
         <module name="springmvc07" />
         <module name="huigu12-AOP入门案例" />
         <module name="springmvc08" />
+        <module name="Spring_boot" />
+        <module name="Maven管理" />
         <module name="springmvc01" />
         <module name="huigu19" />
         <module name="springmvc02" />
         <module name="huigu18" />
+        <module name="Springboot_SSM" />
         <module name="huigu17" />
         <module name="huigu20-Spring-MVC" />
       </profile>
@@ -67,7 +78,16 @@
       <module name="huigu18-事务简介与案例" target="8" />
       <module name="huigu19" target="8" />
       <module name="huigu20-Spring-MVC" target="8" />
+      <module name="Maven管理" target="8" />
+      <module name="mybatisplus01" target="1.8" />
+      <module name="mybatisplus02" target="1.8" />
+      <module name="mybatisplus03" target="1.8" />
+      <module name="mybatisplus04" target="1.8" />
+      <module name="Spring_boot" target="1.8" />
+      <module name="spring_boot01" target="8" />
       <module name="Spring_Framwork2" target="8" />
+      <module name="SpringBoot_MyBatis" target="1.8" />
+      <module name="Springboot_SSM" target="1.8" />
       <module name="springmvc01" target="1.8" />
       <module name="springmvc02" target="1.8" />
       <module name="springmvc03" target="1.8" />
@@ -77,8 +97,24 @@
       <module name="springmvc07" target="8" />
       <module name="Springmvc07--SSM整合" target="1.7" />
       <module name="springmvc08" target="8" />
-      <module name="springmvc09" target="8" />
-      <module name="untitled" target="1.7" />
+      <module name="springmvc10" target="8" />
+      <module name="springmvc10 (1)" target="8" />
+      <module name="springmvc11" target="8" />
+      <module name="springmvc11 (1)" target="8" />
+      <module name="springmvc12" target="8" />
+      <module name="untitled" target="8" />
     </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="SpringBoot_MyBatis" options="-parameters" />
+      <module name="Spring_boot" options="-parameters" />
+      <module name="Springboot_SSM" options="-parameters" />
+      <module name="mybatisplus01" options="-parameters" />
+      <module name="mybatisplus02" options="-parameters" />
+      <module name="mybatisplus03" options="-parameters" />
+      <module name="mybatisplus04" options="-parameters" />
+      <module name="spring_boot01" options="-parameters" />
+    </option>
   </component>
 </project>

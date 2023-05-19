@@ -11,6 +11,9 @@
     <file type="web" url="file://$PROJECT_DIR$/Springmvc07--SSM整合/Springmvc07--SSM整合" />
     <file type="web" url="file://$PROJECT_DIR$/Springmvc08--SSM整合--表现层与前端协议" />
     <file type="web" url="file://$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc10--SSM整合--项目异常处理" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc11--SSM整合--前后端列表功能" />
+    <file type="web" url="file://$PROJECT_DIR$/Springmvc12--拦截器入门案例" />
     <file type="web" url="file://$PROJECT_DIR$/untitled" />
   </component>
   <component name="MavenProjectsManager">
@@ -53,6 +56,18 @@
         <option value="$PROJECT_DIR$/Springmvc07--SSM整合/pom.xml" />
         <option value="$PROJECT_DIR$/Springmvc08--SSM整合--表现层与前端协议/pom.xml" />
         <option value="$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc11--SSM整合--前后端列表功能/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc10--SSM整合--项目异常处理/pom.xml" />
+        <option value="$PROJECT_DIR$/Maven管理/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring_boot/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot_MyBatis/pom.xml" />
+        <option value="$PROJECT_DIR$/Springboot_SSM/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisplus02/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisplus01-入门案例/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisplus02-分页查询/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisplus03-条件查询的三种格式/pom.xml" />
+        <option value="$PROJECT_DIR$/mybatisplus04-条件查询null判定/pom.xml" />
+        <option value="$PROJECT_DIR$/Springmvc12--拦截器入门案例/pom.xml" />
       </list>
     </option>
   </component>

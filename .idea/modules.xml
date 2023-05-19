@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Maven管理/Maven管理.iml" filepath="$PROJECT_DIR$/Maven管理/Maven管理.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringBoot_MyBatis/SpringBoot_MyBatis.iml" filepath="$PROJECT_DIR$/SpringBoot_MyBatis/SpringBoot_MyBatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_boot/Spring_boot.iml" filepath="$PROJECT_DIR$/Spring_boot/Spring_boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springboot_SSM/Springboot_SSM.iml" filepath="$PROJECT_DIR$/Springboot_SSM/Springboot_SSM.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu01-入门案例/huigu.iml" filepath="$PROJECT_DIR$/huigu01-入门案例/huigu.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu04-依赖自动装配/huigu (1).iml" filepath="$PROJECT_DIR$/huigu04-依赖自动装配/huigu (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu05-集合注入/huigu (2).iml" filepath="$PROJECT_DIR$/huigu05-集合注入/huigu (2).iml" />
@@ -24,6 +28,10 @@
       <module fileurl="file://$PROJECT_DIR$/huigu18-事务案例/huigu18.iml" filepath="$PROJECT_DIR$/huigu18-事务案例/huigu18.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu19-转账业务追加日志/huigu19.iml" filepath="$PROJECT_DIR$/huigu19-转账业务追加日志/huigu19.iml" />
       <module fileurl="file://$PROJECT_DIR$/huigu20-SpringMVC简介/huigu20-Spring-MVC.iml" filepath="$PROJECT_DIR$/huigu20-SpringMVC简介/huigu20-Spring-MVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus01-入门案例/mybatisplus01.iml" filepath="$PROJECT_DIR$/mybatisplus01-入门案例/mybatisplus01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus02-分页查询/mybatisplus02.iml" filepath="$PROJECT_DIR$/mybatisplus02-分页查询/mybatisplus02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus03-条件查询的三种格式/mybatisplus03.iml" filepath="$PROJECT_DIR$/mybatisplus03-条件查询的三种格式/mybatisplus03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatisplus04-条件查询null判定/mybatisplus04.iml" filepath="$PROJECT_DIR$/mybatisplus04-条件查询null判定/mybatisplus04.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring.iml" filepath="$PROJECT_DIR$/.idea/spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springmvc01/springmvc01.iml" filepath="$PROJECT_DIR$/Springmvc01/springmvc01.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springmvc02/springmvc02.iml" filepath="$PROJECT_DIR$/Springmvc02/springmvc02.iml" />
@@ -32,7 +40,10 @@
       <module fileurl="file://$PROJECT_DIR$/Springmvc06--RESTful快速开发/springmvc06.iml" filepath="$PROJECT_DIR$/Springmvc06--RESTful快速开发/springmvc06.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springmvc07--SSM整合/springmvc07.iml" filepath="$PROJECT_DIR$/Springmvc07--SSM整合/springmvc07.iml" />
       <module fileurl="file://$PROJECT_DIR$/Springmvc08--SSM整合--表现层与前端协议/springmvc08.iml" filepath="$PROJECT_DIR$/Springmvc08--SSM整合--表现层与前端协议/springmvc08.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器/springmvc09.iml" filepath="$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器/springmvc09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器/springmvc10.iml" filepath="$PROJECT_DIR$/Springmvc09--SSM整合--异常处理器/springmvc10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc10--SSM整合--项目异常处理/springmvc10 (1).iml" filepath="$PROJECT_DIR$/Springmvc10--SSM整合--项目异常处理/springmvc10 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc11--SSM整合--前后端列表功能/springmvc11.iml" filepath="$PROJECT_DIR$/Springmvc11--SSM整合--前后端列表功能/springmvc11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Springmvc12--拦截器入门案例/springmvc12.iml" filepath="$PROJECT_DIR$/Springmvc12--拦截器入门案例/springmvc12.iml" />
     </modules>
   </component>
 </project>
